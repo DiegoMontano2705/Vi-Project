@@ -1,5 +1,5 @@
 # Vi-Project = Text Editor in C
-Text editor in made in C based on the [/kilo] (https://viewsourcecode.org/snaptoken/kilo/ ) text editor
+Text editor created in C based on the /kilo (https://viewsourcecode.org/snaptoken/kilo/ ) text editor
 Made by Arturo Baez, Diego Montaño and Monica Nava
 Cygwin64 is required to run the code in Windows.
 
